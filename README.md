@@ -132,15 +132,15 @@ Olá! Sou Angela Dias, uma desenvolvedora apaixonada por tecnologia! Possuo form
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="135" 
+    style="padding-right: 2px;" 
     src="https://github-readme-stats.vercel.app/api?username=AngeDias&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="135" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeDias&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
